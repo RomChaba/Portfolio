@@ -33,7 +33,7 @@ Nous avons décidé de créer "[E-marché](https://e-marche.fr/)" une plateforme
 
 ![image](https://user-images.githubusercontent.com/26637114/127305867-9d82eeb2-30cb-42d8-9efe-51491be2c05b.png)
 
-### Mon travail
+#### Mon travail
 
 J'était en charge de toute la partie Backend ainsi que de la gestion du serveur et de la base de donnée.
 J'ai aussi aidé pour l'intégration et la liaison du front avec le back.
