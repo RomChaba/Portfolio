@@ -33,20 +33,26 @@ Nous avons décidé de créer "[E-marché](https://e-marche.fr/)" une plateforme
 
 ![image](https://user-images.githubusercontent.com/26637114/127305867-9d82eeb2-30cb-42d8-9efe-51491be2c05b.png)
 
+🚧 WIP : Création d'un repository avec une version light du projet pour montrer les parties: Client & Commerçant & Administrateur
+
 #### Mon travail
 
 J'était en charge de toute la partie Backend ainsi que de la gestion du serveur et de la base de donnée.
 J'ai aussi aidé pour l'intégration et la liaison du front avec le back.
 
 Les specs du site sont les suivantes :
-- Framework Back : Laravel (**_version_**)
+- Framework Back : Laravel (🚧 WIP : **_version_**)
 - Framework Front : React JS
 - Bdd : MySQL
 - Serveur : Ionos (Pour leur utilisation d'énergies renouvelables pour les serveurs)
 
-### Administration Livewire sans Bdd
+### Back Office avec Livewire sans Bdd
 
-_Description du projet_
+Création d'un backoffice pour le site d'un client.
+Je l'ai créer avec pour objectif de pouvoir proposer une landing page et quelques pages de détails, modifiable par le client sans avoir à mettre en place une gestion de base de données.
 
-_Vidéo de démo de l'admin_
+La solution que j'ai choisi à été de sauvegarder les données dans un fichier JSON, qui est diponible pour la partie front.
 
+🚧 WIP : _Vidéo de démo de l'admin_
+
+🚧 WIP : Création d'un repository avec une version light du projet
