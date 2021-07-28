@@ -33,7 +33,7 @@ Nous avons décidé de créer "[E-marché](https://e-marche.fr/)" une plateforme
 
 ![image](https://user-images.githubusercontent.com/26637114/127305867-9d82eeb2-30cb-42d8-9efe-51491be2c05b.png)
 
-🚧 WIP : Création d'un repository avec une version light du projet pour montrer les parties: Client & Commerçant & Administrateur
+_🚧 WIP : Création d'un repository avec une version light du projet pour montrer les parties: Client & Commerçant & Administrateur_
 
 #### Mon travail
 
@@ -41,7 +41,7 @@ J'était en charge de toute la partie Backend ainsi que de la gestion du serveur
 J'ai aussi aidé pour l'intégration et la liaison du front avec le back.
 
 Les specs du site sont les suivantes :
-- Framework Back : Laravel (🚧 WIP : **_version_**)
+- Framework Back : Laravel (_🚧 WIP : **version**_)
 - Framework Front : React JS
 - Bdd : MySQL
 - Serveur : Ionos (Pour leur utilisation d'énergies renouvelables pour les serveurs)
@@ -53,6 +53,14 @@ Je l'ai créer avec pour objectif de pouvoir proposer une landing page et quelqu
 
 La solution que j'ai choisi à été de sauvegarder les données dans un fichier JSON, qui est diponible pour la partie front.
 
-🚧 WIP : _Vidéo de démo de l'admin_
+_🚧 WIP : Vidéo de démo de l'admin_
 
-🚧 WIP : Création d'un repository avec une version light du projet
+_🚧 WIP : Création d'un repository avec une version light du projet_
+
+### Un configurateur de site web
+
+_🚧 WIP : Décrire le projet_
+
+_🚧 WIP : Image de présentation_
+
+_🚧 WIP : Faire le projet_
