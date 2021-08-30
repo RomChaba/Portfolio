@@ -29,7 +29,7 @@ Mais avec quelques connaissances de Frontend :
 ### E-marché
 
 Création d'un site d'e-commerce en 2 semaines. Le projet a pris vie lors de l'annonce du 2e confinement à cause du COVID en France.
-Nous avons décidé de créer "[E-marché](https://e-marche.fr/)" une plateforme qui regrouperait les commerçants locaux dans le but de leur offrir une visibilité accrue.
+Nous avons décidé de créer "[E-marché](https://e-marche.fr/)" une plateforme qui regroupe les commerçants locaux dans le but de leur offrir une visibilité accrue. Ansi qu'une plateforme de click and collect.
 
 ![image](https://user-images.githubusercontent.com/26637114/127305867-9d82eeb2-30cb-42d8-9efe-51491be2c05b.png)
 
@@ -60,6 +60,16 @@ _🚧 WIP : Création d'un repository avec une version light du projet_
 ### Un configurateur de site web
 
 _🚧 WIP : Décrire le projet_
+
+_🚧 WIP : Image de présentation_
+
+_🚧 WIP : Faire le projet_
+
+### Personal Trainer
+
+_🚧 WIP : Décrire le projet_
+
+Une appli pour se préparer des sessions d'entrainements, avec une sythèse vocal pour guider pendant l'effor
 
 _🚧 WIP : Image de présentation_
 
